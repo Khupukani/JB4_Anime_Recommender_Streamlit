@@ -1,1 +1,2 @@
-# JB4_Anime_Recommender_Streamlit
+# JB4_AnimeRecommenderProject
+Unsupervised Learning
